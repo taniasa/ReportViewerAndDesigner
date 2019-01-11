@@ -30,7 +30,7 @@ namespace HTML_Samples.Controllers
         public ActionResult GetReport()
         {
             StiReport report = new StiReport();
-            StiOptions.Dictionary.BusinessObjects.ColumnsSynchronizationMode = Stimulsoft.Report.Dictionary.StiColumnsSynchronizationMode.KeepAbsentColumns;
+            //StiOptions.Dictionary.BusinessObjects.ColumnsSynchronizationMode = Stimulsoft.Report.Dictionary.StiColumnsSynchronizationMode.KeepAbsentColumns;
             report.Load(Server.MapPath("~/Content/Reports/TwoSimpleLists.mrt"));
             var dados = Help.RetornarPessoas();
             report.RegBusinessObject("Pessoa", dados);
