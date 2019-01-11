@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StiSerializer version="1.02" type="Net" application="StiReport">
+  <Dictionary Ref="1" type="Dictionary" isKey="true">
+    <BusinessObjects isList="true" count="1">
+      <Pessoa Ref="2" type="Stimulsoft.Report.Dictionary.StiBusinessObject" isKey="true">
+        <Alias>Pessoa</Alias>
+        <BusinessObjects isList="true" count="1">
+          <Enderecos Ref="3" type="Stimulsoft.Report.Dictionary.StiBusinessObject" isKey="true">
+            <Alias>Enderecos</Alias>
+            <BusinessObjects isList="true" count="0" />
+            <Category />
+            <Columns isList="true" count="3">
+              <value>Id,System.Int32</value>
+              <value>Logradouro,System.String</value>
+              <value>Numero,System.Int32</value>
+            </Columns>
+            <Dictionary isRef="1" />
+            <Guid>71c3d326536b423586d1b6683e33b013</Guid>
+            <Name>Enderecos</Name>
+          </Enderecos>
+        </BusinessObjects>
+        <Category />
+        <Columns isList="true" count="3">
+          <value>Id,System.Int32</value>
+          <value>Nome,System.String</value>
+          <value>TesteOutro,System.String</value>
+        </Columns>
+        <Dictionary isRef="1" />
+        <Guid>855539b85164468d839800819b9961bc</Guid>
+        <Name>Pessoa</Name>
+      </Pessoa>
+    </BusinessObjects>
+    <Databases isList="true" count="0" />
+    <DataSources isList="true" count="0" />
+    <Relations isList="true" count="0" />
+    <Report isRef="0" />
+    <Resources isList="true" count="0" />
+    <Variables isList="true" count="0" />
+  </Dictionary>
+  <EngineVersion>EngineV2</EngineVersion>
+  <GlobalizationStrings isList="true" count="0" />
+  <Key>dbf7705f172d47629db246cc4ee9407b</Key>
+  <MetaTags isList="true" count="0" />
+  <Pages isList="true" count="2">
+    <Page1 Ref="4" type="Page" isKey="true">
+      <Border>None;Black;2;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <Components isList="true" count="1">
+        <DataBand1 Ref="5" type="DataBand" isKey="true">
+          <Brush>Transparent</Brush>
+          <BusinessObjectGuid>855539b85164468d839800819b9961bc</BusinessObjectGuid>
+          <ClientRectangle>0,0.4,19,0.8</ClientRectangle>
+          <Components isList="true" count="3">
+            <Text1 Ref="6" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>0,0,3,0.6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,8</Font>
+              <Guid>b7f28fb191d2458e95b4e29f50951cc3</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text1</Name>
+              <Page isRef="4" />
+              <Parent isRef="5" />
+              <Text>{Pessoa.Id}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text1>
+            <Text2 Ref="7" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>3.4,0,7,0.6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,8</Font>
+              <Guid>9aeb9166678e499fa8deb3e18314cda7</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text2</Name>
+              <Page isRef="4" />
+              <Parent isRef="5" />
+              <Text>{Pessoa.Nome}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text2>
+            <Text6 Ref="8" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>10.8,0,3,0.6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,8</Font>
+              <Guid>9cf5b161b45d4d95bd239785e763b4ec</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text6</Name>
+              <Page isRef="4" />
+              <Parent isRef="5" />
+              <Text>{Pessoa.TesteOutro}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text6>
+          </Components>
+          <Conditions isList="true" count="0" />
+          <DataRelationName isNull="true" />
+          <Filters isList="true" count="0" />
+          <Name>DataBand1</Name>
+          <Page isRef="4" />
+          <Parent isRef="4" />
+          <Sort isList="true" count="0" />
+        </DataBand1>
+      </Components>
+      <Conditions isList="true" count="0" />
+      <Guid>c8dbf33117bf45b4b7cc8f6e90f36f5b</Guid>
+      <Margins>1,1,1,1</Margins>
+      <Name>Page1</Name>
+      <PageHeight>29.7</PageHeight>
+      <PageWidth>21</PageWidth>
+      <Report isRef="0" />
+    </Page1>
+    <subReport_1 Ref="9" type="Page" isKey="true">
+      <Border>None;Black;2;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <Components isList="true" count="1">
+        <DataBand2 Ref="10" type="DataBand" isKey="true">
+          <Brush>Transparent</Brush>
+          <BusinessObjectGuid>71c3d326536b423586d1b6683e33b013</BusinessObjectGuid>
+          <ClientRectangle>0,0.4,7.8,0.8</ClientRectangle>
+          <Components isList="true" count="3">
+            <Text3 Ref="11" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>1,0,4,0.6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,8</Font>
+              <Guid>5e1703d6416c40b2998f787bbc1c86cd</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text3</Name>
+              <Page isRef="9" />
+              <Parent isRef="10" />
+              <Text>{Pessoa.Enderecos.Logradouro}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text3>
+            <Text4 Ref="12" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>0,0,0.8,0.6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,8</Font>
+              <Guid>24caafbce54240d5800b4b0d49614cd6</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text4</Name>
+              <Page isRef="9" />
+              <Parent isRef="10" />
+              <Text>{Pessoa.Enderecos.Id}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text4>
+            <Text5 Ref="13" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>5.8,0,1.6,0.6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,8</Font>
+              <Guid>4458bcd9a2b54e63808928c390bcd577</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text5</Name>
+              <Page isRef="9" />
+              <Parent isRef="10" />
+              <Text>{Pessoa.Enderecos.Numero}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text5>
+          </Components>
+          <Conditions isList="true" count="0" />
+          <DataSourceName isNull="true" />
+          <Filters isList="true" count="0" />
+          <Name>DataBand2</Name>
+          <Page isRef="9" />
+          <Parent isRef="9" />
+          <Sort isList="true" count="0" />
+        </DataBand2>
+      </Components>
+      <Conditions isList="true" count="0" />
+      <Guid>9738daa571fc4602972b090a9fe92572</Guid>
+      <Margins>1,1,1,1</Margins>
+      <Name>subReport_1</Name>
+      <PageHeight>29.7</PageHeight>
+      <PageWidth>9.8</PageWidth>
+      <Report isRef="0" />
+    </subReport_1>
+  </Pages>
+  <PrinterSettings Ref="14" type="Stimulsoft.Report.Print.StiPrinterSettings" isKey="true" />
+  <ReferencedAssemblies isList="true" count="8">
+    <value>System.Dll</value>
+    <value>System.Drawing.Dll</value>
+    <value>System.Windows.Forms.Dll</value>
+    <value>System.Data.Dll</value>
+    <value>System.Xml.Dll</value>
+    <value>Stimulsoft.Controls.Dll</value>
+    <value>Stimulsoft.Base.Dll</value>
+    <value>Stimulsoft.Report.Dll</value>
+  </ReferencedAssemblies>
+  <ReportAlias>Report</ReportAlias>
+  <ReportChanged>8/14/2018 4:30:44 PM</ReportChanged>
+  <ReportCreated>8/14/2018 4:16:51 PM</ReportCreated>
+  <ReportFile>TwoSimpleLists.mrt</ReportFile>
+  <ReportGuid>3921032584424d1dafb9985af0a89e3f</ReportGuid>
+  <ReportName>Report</ReportName>
+  <ReportUnit>Centimeters</ReportUnit>
+  <ReportVersion>2019.1.1.0</ReportVersion>
+  <Script>using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Data;
+using Stimulsoft.Controls;
+using Stimulsoft.Base.Drawing;
+using Stimulsoft.Report;
+using Stimulsoft.Report.Dialogs;
+using Stimulsoft.Report.Components;
+
+namespace Reports
+{
+    public class Report : Stimulsoft.Report.StiReport
+    {
+        public Report()        {
+            this.InitializeComponent();
+        }
+
+        #region StiReport Designer generated code - do not modify
+		#endregion StiReport Designer generated code - do not modify
+    }
+}
+</Script>
+  <ScriptLanguage>CSharp</ScriptLanguage>
+  <Styles isList="true" count="0" />
+</StiSerializer>

@@ -1,0 +1,28 @@
+﻿@using Stimulsoft.Report.Mvc;
+@using Stimulsoft.Report.Web;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Show Report in the Viewer</h2>
+
+@Html.Stimulsoft().StiMvcViewer(new StiMvcViewerOptions()
+{
+    Actions =
+    {
+        GetReport = "GetReport",
+        ViewerEvent = "ViewerEvent",
+        DesignReport = "AglReportIndexReportDesign"
+    },
+    Appearance =
+    {
+        FullScreenMode = true,
+        ScrollbarsMode = true
+    },
+    Toolbar =
+    {
+        ShowDesignButton = true,
+        DisplayMode = StiToolbarDisplayMode.Separated
+    }
+})
