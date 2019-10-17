@@ -21,6 +21,7 @@ namespace ViewerAndDesigner.Controllers
         {
             return new List<ReportList>()
                 {
+                    new ReportList(5, "errorDesigner", "Report template error not editable", DataReportEnum.Pessoa),
                     new ReportList(4, "alvara", "Error object", DataReportEnum.Alvara ),
                     new ReportList(3, "alvaraMemory", "Memory overflow", DataReportEnum.Alvara ),
                     new ReportList(2, "multiLevelBussinesObject", "Multilevel business object", DataReportEnum.Multilevel ),

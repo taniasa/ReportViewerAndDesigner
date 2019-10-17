@@ -55,7 +55,8 @@ namespace ViewerAndDesigner.Controllers
             var reportTempData = TempData[Helpers.TempReportName] as ReportList;
             StiReport report = StiMvcDesigner.GetReportObject();
             report.Save(Server.MapPath($"~/Content/Reports/{reportTempData.Name}.mrt"));
-            report = ReportData.RegisterData(reportTempData.Data, report);
+            //report = ReportData.RegisterData(reportTempData.Data, report);
+            TempData[Helpers.TempReportName] = reportTempData;
             return StiMvcDesigner.SaveReportResult();
         }
         

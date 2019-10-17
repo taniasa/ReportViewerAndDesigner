@@ -1,11 +1,10 @@
 ﻿@using Stimulsoft.Report.Mvc;
-
+@using System.Web.UI.WebControls;
+@using Stimulsoft.Report.Web;
 @{
     ViewBag.Title = "Index";
 }
-
 <h2>Edit Report in the Designer</h2>
-
 @Html.Stimulsoft().StiMvcDesigner(new StiMvcDesignerOptions()
 {
     Actions =
@@ -14,5 +13,22 @@
         PreviewReport = "PreviewReport",
         SaveReport = "SaveReport",
         DesignerEvent = "DesignerEvent"
+    },
+    Server = new StiMvcDesignerOptions.ServerOptions
+    {
+        UseRelativeUrls = true
+    },
+    //Width = Unit.Percentage(100),
+    //Height = Unit.Percentage(100),
+    Behavior = new StiMvcDesignerOptions.BehaviorOptions()
+    {
+        SaveReportAsMode = StiSaveMode.NewWindow,
+    },
+    FileMenu = new StiMvcDesignerOptions.FileMenuOptions()
+    {
+        ShowClose = false,
+        ShowExit = false,
+        ShowOpen = true,
+        ShowNew = false,
     },
 })

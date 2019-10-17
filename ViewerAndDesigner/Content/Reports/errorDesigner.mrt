@@ -55,7 +55,7 @@
               <Brush>Transparent</Brush>
               <ClientRectangle>0,0,3,0.6</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Arial,8,Bold</Font>
+              <Font>Arial,8</Font>
               <Guid>b7f28fb191d2458e95b4e29f50951cc3</Guid>
               <Margins>0,0,0,0</Margins>
               <Name>Text1</Name>
@@ -176,7 +176,7 @@
       <Report isRef="0" />
     </subReport_1>
   </Pages>
-  <ReferencedAssemblies isList="true" count="8">
+  <ReferencedAssemblies isList="true" count="9">
     <value>System.Dll</value>
     <value>System.Drawing.Dll</value>
     <value>System.Windows.Forms.Dll</value>
@@ -185,11 +185,13 @@
     <value>Stimulsoft.Controls.Dll</value>
     <value>Stimulsoft.Base.Dll</value>
     <value>Stimulsoft.Report.Dll</value>
+    <value>Stimulsoft.Reportsdfsd.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
   <ReportChanged>8/14/2018 4:30:44 PM</ReportChanged>
   <ReportCreated>8/14/2018 4:16:51 PM</ReportCreated>
-  <ReportGuid>b8fa780349f045839ef2b2dee86ee8b3</ReportGuid>
+  <ReportFile>E:\Playground\Stimulsoft\ReportViewerAndDesigner\ViewerAndDesigner\Content\Reports\TwoSimpleLists.mrt</ReportFile>
+  <ReportGuid>256653c0cf494f27840bab3274509b8c</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Centimeters</ReportUnit>
   <ReportVersion>2019.3.7.0</ReportVersion>

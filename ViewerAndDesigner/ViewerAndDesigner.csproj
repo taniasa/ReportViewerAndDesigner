@@ -235,6 +235,7 @@
     <Content Include="Content\Reports\alvaraMemory.mrt" />
     <Content Include="Content\Reports\alvara.mrt" />
     <Content Include="Content\Reports\multiLevelBussinesObject.mrt" />
+    <Content Include="Content\Reports\errorDesigner.mrt" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
