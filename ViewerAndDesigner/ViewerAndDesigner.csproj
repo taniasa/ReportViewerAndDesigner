@@ -46,38 +46,38 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LibExcel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\LibExcel.dll</HintPath>
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\LibExcel.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Stimulsoft.Base, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Stimulsoft.Base.dll</HintPath>
+    <Reference Include="Stimulsoft.Base, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Stimulsoft.Base.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Data, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Stimulsoft.Data.dll</HintPath>
+    <Reference Include="Stimulsoft.Data, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Stimulsoft.Data.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Map, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Stimulsoft.Map.dll</HintPath>
+    <Reference Include="Stimulsoft.Map, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Stimulsoft.Map.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Report, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Stimulsoft.Report.dll</HintPath>
+    <Reference Include="Stimulsoft.Report, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Stimulsoft.Report.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Report.Check, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Stimulsoft.Report.Check.dll</HintPath>
+    <Reference Include="Stimulsoft.Report.Check, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Stimulsoft.Report.Check.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Report.Helper, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Stimulsoft.Report.Helper.dll</HintPath>
+    <Reference Include="Stimulsoft.Report.Helper, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Stimulsoft.Report.Helper.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Report.Mvc, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Web.2019.1.1\lib\net40\Stimulsoft.Report.Mvc.dll</HintPath>
+    <Reference Include="Stimulsoft.Report.Mvc, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Web.2019.3.7\lib\net45\Stimulsoft.Report.Mvc.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Report.Web, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Web.2019.1.1\lib\net40\Stimulsoft.Report.Web.dll</HintPath>
+    <Reference Include="Stimulsoft.Report.Web, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Web.2019.3.7\lib\net45\Stimulsoft.Report.Web.dll</HintPath>
     </Reference>
-    <Reference Include="Stimulsoft.Report.WebDesign, Version=2019.1.1.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Web.2019.1.1\lib\net40\Stimulsoft.Report.WebDesign.dll</HintPath>
+    <Reference Include="Stimulsoft.Report.WebDesign, Version=2019.3.7.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Web.2019.3.7\lib\net45\Stimulsoft.Report.WebDesign.dll</HintPath>
     </Reference>
-    <Reference Include="Svg, Version=2.2.1.39233, Culture=neutral, PublicKeyToken=12a0bac221edeae2, processorArchitecture=MSIL">
-      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.1.1\lib\net40\Svg.dll</HintPath>
+    <Reference Include="Svg, Version=2.4.3.29446, Culture=neutral, PublicKeyToken=12a0bac221edeae2, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stimulsoft.Reports.Engine.2019.3.7\lib\net45\Svg.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -159,6 +159,14 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Classes\Alvara.cs" />
+    <Compile Include="Classes\Cabecalho.cs" />
+    <Compile Include="Classes\DataReportEnum.cs" />
+    <Compile Include="Classes\Helpers.cs" />
+    <Compile Include="Classes\IIdentificavel.cs" />
+    <Compile Include="Classes\ReportData.cs" />
+    <Compile Include="Classes\ReportList.cs" />
+    <Compile Include="Classes\Utils.cs" />
     <Compile Include="Controllers\DesignerController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ViewerController.cs" />
@@ -167,12 +175,18 @@
     </Compile>
     <Compile Include="Pessoa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Data\alvara.txt" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -183,26 +197,21 @@
     <Content Include="Localization\bh.xml" />
     <Content Include="Localization\ca-ES.xml" />
     <Content Include="Localization\cs.xml" />
-    <Content Include="Localization\de.ext.xml" />
     <Content Include="Localization\de.xml" />
     <Content Include="Localization\el-GR.xml" />
     <Content Include="Localization\en-GB.xml" />
-    <Content Include="Localization\en.ext.xml" />
     <Content Include="Localization\en.xml" />
     <Content Include="Localization\es.xml" />
     <Content Include="Localization\eu-ES.xml" />
     <Content Include="Localization\fa.xml" />
-    <Content Include="Localization\fr.ext.xml" />
     <Content Include="Localization\fr.xml" />
     <Content Include="Localization\gl-ES.xml" />
     <Content Include="Localization\hr.xml" />
     <Content Include="Localization\hu.xml" />
     <Content Include="Localization\id.xml" />
     <Content Include="Localization\it.xml" />
-    <Content Include="Localization\ja.ext.xml" />
     <Content Include="Localization\ja.xml" />
     <Content Include="Localization\ka.xml" />
-    <Content Include="Localization\ko.ext.xml" />
     <Content Include="Localization\ko.xml" />
     <Content Include="Localization\lt.xml" />
     <Content Include="Localization\nb-NO.xml" />
@@ -211,11 +220,9 @@
     <Content Include="Localization\pt-BR.xml" />
     <Content Include="Localization\pt.xml" />
     <Content Include="Localization\ro.xml" />
-    <Content Include="Localization\ru.ext.xml" />
     <Content Include="Localization\ru.xml" />
     <Content Include="Localization\sk.xml" />
     <Content Include="Localization\sr.xml" />
-    <Content Include="Localization\sv.ext.xml" />
     <Content Include="Localization\sv.xml" />
     <Content Include="Localization\tr.xml" />
     <Content Include="Localization\uk.xml" />
@@ -224,7 +231,10 @@
     <Content Include="Localization\zh-CHT.xml" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Content\Reports\TwoSimpleLists.mrt" />
+    <Content Include="Content\Reports\pessoa.mrt" />
+    <Content Include="Content\Reports\alvaraMemory.mrt" />
+    <Content Include="Content\Reports\alvara.mrt" />
+    <Content Include="Content\Reports\multiLevelBussinesObject.mrt" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -269,6 +279,12 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

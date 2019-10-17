@@ -93,6 +93,7 @@
           </Components>
           <Conditions isList="true" count="0" />
           <DataRelationName isNull="true" />
+          <DataSourceName isNull="true" />
           <Filters isList="true" count="0" />
           <Name>DataBand1</Name>
           <Page isRef="4" />
@@ -175,7 +176,6 @@
       <Report isRef="0" />
     </subReport_1>
   </Pages>
-  <PrinterSettings Ref="14" type="Stimulsoft.Report.Print.StiPrinterSettings" isKey="true" />
   <ReferencedAssemblies isList="true" count="8">
     <value>System.Dll</value>
     <value>System.Drawing.Dll</value>
@@ -189,11 +189,11 @@
   <ReportAlias>Report</ReportAlias>
   <ReportChanged>8/14/2018 4:30:44 PM</ReportChanged>
   <ReportCreated>8/14/2018 4:16:51 PM</ReportCreated>
-  <ReportFile>TwoSimpleLists.mrt</ReportFile>
-  <ReportGuid>3921032584424d1dafb9985af0a89e3f</ReportGuid>
+  <ReportFile>E:\Playground\Stimulsoft\ReportViewerAndDesigner\ViewerAndDesigner\Content\Reports\TwoSimpleLists.mrt</ReportFile>
+  <ReportGuid>256653c0cf494f27840bab3274509b8c</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Centimeters</ReportUnit>
-  <ReportVersion>2019.1.1.0</ReportVersion>
+  <ReportVersion>2019.3.7.0</ReportVersion>
   <Script>using System;
 using System.Drawing;
 using System.Windows.Forms;
@@ -203,7 +203,6 @@ using Stimulsoft.Base.Drawing;
 using Stimulsoft.Report;
 using Stimulsoft.Report.Dialogs;
 using Stimulsoft.Report.Components;
-
 namespace Reports
 {
     public class Report : Stimulsoft.Report.StiReport

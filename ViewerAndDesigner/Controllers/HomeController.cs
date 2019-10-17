@@ -3,16 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ViewerAndDesigner.Classes;
 
 namespace ViewerAndDesigner.Controllers
 {
     public class HomeController : Controller
     {
+        public List<ReportList> Reports { get; set; } = Get();
         public ActionResult Index()
         {
-            return RedirectToAction("../Viewer/Index");
+            //return RedirectToAction("../Viewer/Index");
 
-            //return View();
+            return View(Reports);
+        }
+
+        public static List<ReportList> Get()
+        {
+            return new List<ReportList>()
+                {
+                    new ReportList(4, "alvara", "Error object", DataReportEnum.Alvara ),
+                    new ReportList(3, "alvaraMemory", "Memory overflow", DataReportEnum.Alvara ),
+                    new ReportList(2, "multiLevelBussinesObject", "Multilevel business object", DataReportEnum.Multilevel ),
+                    new ReportList(1, "pessoa", "Pessoa", DataReportEnum.Pessoa),
+                };
         }
 
         public ActionResult About()

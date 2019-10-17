@@ -1,0 +1,765 @@
+{
+  "Id": 2560356,
+  "TituloAlvara": "Alvará de Localização/funcionamento",
+  "NumeroAno": "3420/2019",
+  "Descricao": "Alvará",
+  "DataEmissao": "04/10/2019",
+  "DataValidade": "31/12/2019",
+  "SetorResponsavel": null,
+  "Responsavel": null,
+  "RestricoesObservacoes": null,
+  "ObservacaoDocumento": "",
+  "TipoImobiliario": null,
+  "InscricaoImobiliaria": null,
+  "DocumentoPrincipalImovel": null,
+  "SituacaoImovel": null,
+  "DescricaoImovel": null,
+  "PessoaRazaoSocial": "TESTE LTDA",
+  "PessoaNomeFantasia": "TESTE CARD",
+  "PessoaDocumentoCNPJ": "44.822.893/0001-26",
+  "PessoaInscricaoEstadual": "",
+  "ProprietarioImovel": null,
+  "NomeImove": null,
+  "DocPrincpalPropImovel": null,
+  "ResponsavelImovel": null,
+  "PercentualSobreImovel": null,
+  "InicioPosseImovel": null,
+  "FimPosseImovel": null,
+  "MunicipioContribuinte": "SORRISO",
+  "EstadoContribuinte": "MATO GROSSO",
+  "DistritoContribuinte": null,
+  "BairroContribuinte": "CENTRO",
+  "LogradouroContribuinte": "POUSO ALEGRE",
+  "NumeroEndContribuinte": "23",
+  "ComplementoEndContribuinte": "SALA 01",
+  "CepContribuinte": "78890-000",
+  "TipoLogradouroContribuinte": "Avenida",
+  "MunicipioImovel": null,
+  "EstadoImovel": null,
+  "DistritoImovel": null,
+  "BairroImovel": null,
+  "LogradouroImovel": null,
+  "NumeroEndImovel": null,
+  "ComplementoEndImovel": null,
+  "CepImovel": null,
+  "TipoLogradouro": "Avenida",
+  "MunicipioEconomico": "SORRISO",
+  "EstadoEconomico": "MATO GROSSO",
+  "DistritoEconomico": null,
+  "BairroEconomico": "CENTRO",
+  "LogradouroEconomico": "PORTO ALEGRE",
+  "NumeroEndEconomico": "2674",
+  "ComplementoEndEconomico": "SALA 231",
+  "CepEconomico": "78890-000",
+  "TipoLogradouroEconomico": "Rua",
+  "DescricaoUtilizacaoEndImovel": null,
+  "InicioVigenciaEndImovel": null,
+  "FimVigenciaEndImovel": null,
+  "InscricaoMunicipalAtivEconomica": "12741",
+  "NomeEconomico": "TESTE LTDA",
+  "DetalhamentoAtivEconomica": "HABITE-SE - TERMO VÁLIDO ATÉ 31/12/2019\nBOMBEIRO - TERMO VÁLIDO ATÉ 31/12/2019\n\nPENDÊNCIAS - HABITE-SE E BOMBEIRO.\n",
+  "DataNascimentoConstituicao": "16/11/2017",
+  "LabelDataNascConstituicao": "Data de constituição",
+  "DetalhamentoEconomico": "HABITE-SE - TERMO VÁLIDO ATÉ 31/12/2019\nBOMBEIRO - TERMO VÁLIDO ATÉ 31/12/2019\n\nPENDÊNCIAS - HABITE-SE E BOMBEIRO.\n",
+  "SociosPessoa": [
+    {
+      "Id": 4123,
+      "IdPessoa": 239932,
+      "Nome": "TESTE 3 LTDA",
+      "IdPessoaSocio": 102949,
+      "NomeSocio": "MAURICIO TESTE",
+      "Docto": "02595918907",
+      "Percentual": 15.00,
+      "DataInicial": "2019-09-30T00:00:00",
+      "DataFinal": null
+    },
+    {
+      "Id": 4124,
+      "IdPessoa": 239932,
+      "Nome": "TESTE1 LTDA",
+      "IdPessoaSocio": 20323,
+      "NomeSocio": "DANIELLI TESTE",
+      "Docto": "92857106033",
+      "Percentual": 35.00,
+      "DataInicial": "2019-09-30T00:00:00",
+      "DataFinal": null
+    },
+    {
+      "Id": 4125,
+      "IdPessoa": 239932,
+      "Nome": "TESTE2 LTDA",
+      "IdPessoaSocio": 281638,
+      "NomeSocio": "JOVI TESTE",
+      "Docto": "78043276099",
+      "Percentual": 15.00,
+      "DataInicial": "2019-09-30T00:00:00",
+      "DataFinal": null
+    }
+  ],
+  "ListaAtividadeEconomica_Economico": [
+    {
+      "NomeAtividadeEconomica": "1.8299799 - Outras atividades de serviços prestados principalmente as empresas não especificadas anteriormente",
+      "CodigoAtividadeEconomica": "1.8299799",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Outras atividades de serviços prestados principalmente as empresas não especificadas anteriormente",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.6209100 - Suporte técnico, manutenção e outros serviços em tecnologia da informação",
+      "CodigoAtividadeEconomica": "1.6209100",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Suporte técnico, manutenção e outros serviços em tecnologia da informação",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.6613400 - Administração de cartões de crédito",
+      "CodigoAtividadeEconomica": "1.6613400",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Administração de cartões de crédito",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.6619302 - Correspondentes de instituições financeiras",
+      "CodigoAtividadeEconomica": "1.6619302",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Correspondentes de instituições financeiras",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.6622300 - Corretores e agentes de seguros de planos de previdência complementar e de saúde",
+      "CodigoAtividadeEconomica": "1.6622300",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Corretores e agentes de seguros de planos de previdência complementar e de saúde",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.7311400 - Agencias de publicidade ",
+      "CodigoAtividadeEconomica": "1.7311400",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Agencias de publicidade ",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.7319002 - Promoção de vendas",
+      "CodigoAtividadeEconomica": "1.7319002",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Promoção de vendas",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.7319003 - Marketing direto",
+      "CodigoAtividadeEconomica": "1.7319003",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Marketing direto",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.7490199 - Outras atividades profissionais científicas e técnicas não especificadas anteriormente",
+      "CodigoAtividadeEconomica": "1.7490199",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Outras atividades profissionais científicas e técnicas não especificadas anteriormente",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.7810800 - Seleção e agenciamento de mão-de-obra",
+      "CodigoAtividadeEconomica": "1.7810800",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Seleção e agenciamento de mão-de-obra",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.8211300 - Serviços combinados de escritório de apoio administrativo",
+      "CodigoAtividadeEconomica": "1.8211300",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Serviços combinados de escritório de apoio administrativo",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.8220200 - Atividades de teleatendimento",
+      "CodigoAtividadeEconomica": "1.8220200",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Atividades de teleatendimento",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.8291100 - Atividades de cobranças e informações cadastrais",
+      "CodigoAtividadeEconomica": "1.8291100",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Atividades de cobranças e informações cadastrais",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.8299702 - Emissão de vales-alimentação, vales-transporte e similares",
+      "CodigoAtividadeEconomica": "1.8299702",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Emissão de vales-alimentação, vales-transporte e similares",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "15/12/2017",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.4637199 - Comercio atacadista especializado em outros produtos alimentícios não especificados anteriormente",
+      "CodigoAtividadeEconomica": "1.4637199",
+      "AtividadePrincipalEconomico": "Sim",
+      "DescricaoEstrutAtividadeEconomica": "Comercio atacadista especializado em outros produtos alimentícios não especificados anteriormente",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.4763602 - Comercio varejista de artigos esportivos",
+      "CodigoAtividadeEconomica": "1.4763602",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Comercio varejista de artigos esportivos",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.4772500 - Comercio varejista de cosméticos, produtos de perfumaria e de hegiene pessoal",
+      "CodigoAtividadeEconomica": "1.4772500",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Comercio varejista de cosméticos, produtos de perfumaria e de hegiene pessoal",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.4721104 - Comercio varejista de doces,balas,bombons e semelhantes",
+      "CodigoAtividadeEconomica": "1.4721104",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Comercio varejista de doces,balas,bombons e semelhantes",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.5811500 - Edição de livros ",
+      "CodigoAtividadeEconomica": "1.5811500",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Edição de livros ",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.5813100 - Edição de revistas",
+      "CodigoAtividadeEconomica": "1.5813100",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Edição de revistas",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.5611203 - Lanchonetes, casas de chá, de sucos e similares",
+      "CodigoAtividadeEconomica": "1.5611203",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Lanchonetes, casas de chá, de sucos e similares",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    },
+    {
+      "NomeAtividadeEconomica": "1.8599604 - Treinamento em desenvolvimento profissional e gerencial",
+      "CodigoAtividadeEconomica": "1.8599604",
+      "AtividadePrincipalEconomico": "Não",
+      "DescricaoEstrutAtividadeEconomica": "Treinamento em desenvolvimento profissional e gerencial",
+      "AnoBaseAtivEconomica": 0,
+      "DetalhamentoAtivEconomica": null,
+      "DataCadastroAtivEconomica": null,
+      "DataInicioVigenciaAtivEconomica": "30/09/2019",
+      "DataFimVigenciaAtivEconomica": "",
+      "ObservacaoAtivEconomica": null
+    }
+  ],
+  "AtividadesEconomicasCNAE": [
+    {
+      "Observacao": "",
+      "CNAE": "82.9.9-7.99",
+      "Principal": "Não",
+      "Descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "62.0.9-1.00",
+      "Principal": "Não",
+      "Descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "66.1.3-4.00",
+      "Principal": "Não",
+      "Descricao": "Administração de cartões de crédito",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "66.1.9-3.02",
+      "Principal": "Não",
+      "Descricao": "Correspondentes de instituições financeiras",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "66.2.2-3.00",
+      "Principal": "Não",
+      "Descricao": "Corretores e agentes de seguros, de planos de previdência complementar e de saúde",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "73.1.1-4.00",
+      "Principal": "Não",
+      "Descricao": "Agências de publicidade",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "73.1.9-0.02",
+      "Principal": "Não",
+      "Descricao": "Promoção de vendas",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "73.1.9-0.03",
+      "Principal": "Não",
+      "Descricao": "Marketing direto",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "74.9.0-1.99",
+      "Principal": "Não",
+      "Descricao": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "78.1.0-8.00",
+      "Principal": "Não",
+      "Descricao": "Seleção e agenciamento de mão-de-obra",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "82.1.1-3.00",
+      "Principal": "Não",
+      "Descricao": "Serviços combinados de escritório e apoio administrativo",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "82.2.0-2.00",
+      "Principal": "Não",
+      "Descricao": "Atividades de teleatendimento",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "82.9.1-1.00",
+      "Principal": "Não",
+      "Descricao": "Atividades de cobrança e informações cadastrais",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": "",
+      "CNAE": "82.9.9-7.02",
+      "Principal": "Não",
+      "Descricao": "Emissão de vales-alimentação, vales-transporte e similares",
+      "DataInicioAtividade": "2018-08-30T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "85.9.9-6.04",
+      "Principal": "Não",
+      "Descricao": "Treinamento em desenvolvimento profissional e gerencial",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "58.1.3-1.00",
+      "Principal": "Não",
+      "Descricao": "Edição de revistas",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "58.1.1-5.00",
+      "Principal": "Não",
+      "Descricao": "Edição de livros",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "56.1.1-2.03",
+      "Principal": "Não",
+      "Descricao": "Lanchonetes, casas de chá, de sucos e similares",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "47.7.2-5.00",
+      "Principal": "Não",
+      "Descricao": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "47.6.3-6.02",
+      "Principal": "Não",
+      "Descricao": "Comércio varejista de artigos esportivos",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "47.2.1-1.04",
+      "Principal": "Não",
+      "Descricao": "Comércio varejista de doces, balas, bombons e semelhantes",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    },
+    {
+      "Observacao": null,
+      "CNAE": "46.3.7-1.99",
+      "Principal": "Sim",
+      "Descricao": "Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente",
+      "DataInicioAtividade": "2017-11-16T00:00:00",
+      "DataFimAtividade": null
+    }
+  ],
+  "DadosFichaCadastral": [
+    {
+      "Id": 3804008,
+      "IdCampoXGrupoFichaCadastral": 1,
+      "Nome": "Inscrição Municipal do Econômico no Ágili NFS-e",
+      "Descricao": null,
+      "Valor": "12741"
+    },
+    {
+      "Id": 3804009,
+      "IdCampoXGrupoFichaCadastral": 10101,
+      "Nome": "Área Ocupada",
+      "Descricao": null,
+      "Valor": "60,00"
+    },
+    {
+      "Id": 3804010,
+      "IdCampoXGrupoFichaCadastral": 10110,
+      "Nome": "Categoria",
+      "Descricao": null,
+      "Valor": "Matriz"
+    },
+    {
+      "Id": 3804011,
+      "IdCampoXGrupoFichaCadastral": 10111,
+      "Nome": "Tipo de Empresa",
+      "Descricao": null,
+      "Valor": "LTDA"
+    },
+    {
+      "Id": 3804012,
+      "IdCampoXGrupoFichaCadastral": 10115,
+      "Nome": "Zona de Localização",
+      "Descricao": null,
+      "Valor": "URBANA"
+    },
+    {
+      "Id": 3804013,
+      "IdCampoXGrupoFichaCadastral": 10123,
+      "Nome": "Data de Início de Atividade",
+      "Descricao": null,
+      "Valor": "15/12/2017"
+    },
+    {
+      "Id": 3804014,
+      "IdCampoXGrupoFichaCadastral": 10124,
+      "Nome": "Optante pelo Simples",
+      "Descricao": null,
+      "Valor": "Sim"
+    },
+    {
+      "Id": 3804015,
+      "IdCampoXGrupoFichaCadastral": 10125,
+      "Nome": "Data do Simples Nacional",
+      "Descricao": null,
+      "Valor": "16/11/2017"
+    },
+    {
+      "Id": 3804016,
+      "IdCampoXGrupoFichaCadastral": 10126,
+      "Nome": "Habite-se",
+      "Descricao": null,
+      "Valor": "FALTA"
+    },
+    {
+      "Id": 3804017,
+      "IdCampoXGrupoFichaCadastral": 10127,
+      "Nome": "Licença Ambiental",
+      "Descricao": null,
+      "Valor": "-"
+    },
+    {
+      "Id": 3804018,
+      "IdCampoXGrupoFichaCadastral": 10128,
+      "Nome": "Vencimento do Termo de Compromisso",
+      "Descricao": null,
+      "Valor": "31/12/2019"
+    },
+    {
+      "Id": 3804019,
+      "IdCampoXGrupoFichaCadastral": 10145,
+      "Nome": "Alvará Bombeiro",
+      "Descricao": null,
+      "Valor": "TERMO"
+    },
+    {
+      "Id": 3804020,
+      "IdCampoXGrupoFichaCadastral": 10146,
+      "Nome": "Horario",
+      "Descricao": null,
+      "Valor": "Normal"
+    },
+    {
+      "Id": 3804021,
+      "IdCampoXGrupoFichaCadastral": 10154,
+      "Nome": "Registro na Junta Comercial",
+      "Descricao": null,
+      "Valor": "51201574057"
+    },
+    {
+      "Id": 3804022,
+      "IdCampoXGrupoFichaCadastral": 10163,
+      "Nome": "Vigilância Sanitária",
+      "Descricao": null,
+      "Valor": "-"
+    },
+    {
+      "Id": 3804023,
+      "IdCampoXGrupoFichaCadastral": 10168,
+      "Nome": "Isento de Taxa",
+      "Descricao": null,
+      "Valor": ""
+    },
+    {
+      "Id": 3804024,
+      "IdCampoXGrupoFichaCadastral": 10229,
+      "Nome": "Segmento 1",
+      "Descricao": null,
+      "Valor": "Serviços"
+    },
+    {
+      "Id": 3804025,
+      "IdCampoXGrupoFichaCadastral": 10230,
+      "Nome": "Segmento 2",
+      "Descricao": null,
+      "Valor": "Serviços"
+    },
+    {
+      "Id": 3804026,
+      "IdCampoXGrupoFichaCadastral": 10166,
+      "Nome": "Inscrição Estadual",
+      "Descricao": null,
+      "Valor": "13.775.736-0"
+    },
+    {
+      "Id": 3804027,
+      "IdCampoXGrupoFichaCadastral": 10205,
+      "Nome": "Grupo Fiscal",
+      "Descricao": null,
+      "Valor": ""
+    }
+  ],
+  "DadosFichaCadastralImovel": [],
+  "DadosFichaFatoGerador": [
+    {
+      "Id": 3803999,
+      "IdCampoXGrupoFichaCadastral": 10099,
+      "Nome": "Inscrição Municipal do Econômico no Ágili NFS-e",
+      "Descricao": null,
+      "Valor": "12741"
+    },
+    {
+      "Id": 3804000,
+      "IdCampoXGrupoFichaCadastral": 10103,
+      "Nome": "Área Ocupada",
+      "Descricao": null,
+      "Valor": "60,00"
+    },
+    {
+      "Id": 3804001,
+      "IdCampoXGrupoFichaCadastral": 10141,
+      "Nome": "Tipo de Empresa",
+      "Descricao": null,
+      "Valor": "Outras Atividades Empresariais"
+    },
+    {
+      "Id": 3804002,
+      "IdCampoXGrupoFichaCadastral": 10143,
+      "Nome": "Habite-se",
+      "Descricao": null,
+      "Valor": "TERMO"
+    },
+    {
+      "Id": 3804003,
+      "IdCampoXGrupoFichaCadastral": 10144,
+      "Nome": "Licença Ambiental",
+      "Descricao": null,
+      "Valor": ""
+    },
+    {
+      "Id": 3804004,
+      "IdCampoXGrupoFichaCadastral": 10142,
+      "Nome": "Vencimento do Termo de Compromisso",
+      "Descricao": null,
+      "Valor": "31/12/2018"
+    },
+    {
+      "Id": 3804005,
+      "IdCampoXGrupoFichaCadastral": 10156,
+      "Nome": "Alvará Bombeiro",
+      "Descricao": null,
+      "Valor": "662839/2017"
+    },
+    {
+      "Id": 3804006,
+      "IdCampoXGrupoFichaCadastral": 10155,
+      "Nome": "Horario",
+      "Descricao": null,
+      "Valor": "Normal"
+    },
+    {
+      "Id": 3804007,
+      "IdCampoXGrupoFichaCadastral": 10157,
+      "Nome": "Registro na Junta Comercial",
+      "Descricao": null,
+      "Valor": "51201574057"
+    }
+  ],
+  "Observacoes": [
+    {
+      "Id": 19845,
+      "IdEconomico": 38030,
+      "IdUsuarioInclusao": 223470,
+      "DataObservacao": "2019-09-30T00:00:00",
+      "NomeUsuarioInclusao": "ERICA TESTE",
+      "Observacao": "HABITE-SE - TERMO VÁLIDO ATÉ 31/12/2019\nBOMBEIRO - TERMO VÁLIDO ATÉ 31/12/2019\n\nPENDÊNCIAS - HABITE-SE E BOMBEIRO.\n"
+    }
+  ],
+  "RegimeTributacao": "Simples nacional",
+  "TipoFornecedor": "Normal",
+  "PorteEmpresarial": "Microempresa (ME)",
+  "ImagemLogoEconomico": null
+}
